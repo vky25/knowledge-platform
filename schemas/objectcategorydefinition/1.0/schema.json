@@ -33,7 +33,7 @@
         "Asset",
         "ItemSet",
         "Question",
-        "QuestionSet"
+        "QuestionSet",
         "Event"
       ]
     },
